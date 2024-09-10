@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--repoed2--toniadobe.aem.page/
+- Live: https://main--repoed2--toniadobe.aem.live/
 
 ## Installation
 
